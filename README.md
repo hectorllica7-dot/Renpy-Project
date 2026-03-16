@@ -1,5 +1,6 @@
 # Renpy-Project
-
+**#Files part**<br>
+Download all the files that are upload, and overwrite the once that you have to see the updates of the game
 
 **#Code part**<br> 
 **Images**<br>
