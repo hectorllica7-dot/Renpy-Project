@@ -1,10 +1,10 @@
 # Renpy-Project
-game/
- ├─ images/
- │   ├─ background/
- │   └─ sprites/
- └─ recursos.rpy
- 
+game/<br>
+ ├─ images/<br>
+ │   ├─ background/<br>
+ │   └─ sprites/<br>
+ └─ recursos.rpy<br>
+ <br>
 **#Files part**<br>
 Download all the files that are uploaded, and overwrite the ones that you have to see the updates of the game
 
