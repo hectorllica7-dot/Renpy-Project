@@ -2,7 +2,7 @@
 
 
 **#Code part**<br> 
-**Images**
+**Images**<br>
 To put an image into the game go to /game/recursos.rpy. Define there the image name and the route.
 Example:
 image bg_example = "images/background/escena_example.png" FOR A BACKGROUNGD
