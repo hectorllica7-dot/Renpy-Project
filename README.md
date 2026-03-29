@@ -42,9 +42,3 @@ image bg_example = "images/background/escena_example.png" FOR A BACKGROUNGD<br>
 or<br>
 image aiden_normal = "/images/sprites/aiden/aiden_normal.png" FOR A CHARACTER<br>
 
-A ᚨ   B ᛒ   C ᚲ   D ᛞ   E ᛖ   F ᚠ  
-G ᚷ   H ᚺ   I ᛁ   J ᛃ   K ᚲ   L ᛚ  
-M ᛗ   N ᚾ   O ᛟ   P ᛈ   Q ᚲ   R ᚱ  
-S ᛋ   T ᛏ   U ᚢ   V ᚡ   W ᚹ   X ᚲᛋ  
-Y ᛃ   Z ᛉ
-
