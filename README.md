@@ -1,10 +1,36 @@
 # Renpy-Project
-game/<br>
- ├─ images/<br>
- │   ├─ background/<br>
- │   └─ sprites/<br>
- └─ recursos.rpy<br>
- <br>
+game/
+├─ audio/
+├─ gui/
+│  ├─ bar/
+│  ├─ button/
+│  ├─ overlay/
+│  ├─ phone/
+│  │  ├─ bar/
+│  │  ├─ button/
+│  │  ├─ overlay/
+│  │  ├─ scrollbar/
+│  │  └─ slider/
+│  ├─ scrollbar/
+│  └─ slider/
+├─ images/
+│  ├─ background/
+│  ├─ menu/
+│  ├─ sprites/
+│  │  ├─ aiden/
+│  │  ├─ aldeano/
+│  │  ├─ eros/
+│  │  ├─ guerrero/
+│  │  ├─ kael/
+│  │  ├─ lyra/
+│  │  └─ nino/
+│  ├─ title/
+│  └─ video/
+├─ libs/
+├─ saves/
+├─ tl/
+│  └─ none/
+└─ recursos.rpy
 **#Files part**<br>
 Download all the files that are uploaded, and overwrite the ones that you have to see the updates of the game
 
