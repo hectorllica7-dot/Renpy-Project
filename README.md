@@ -1,14 +1,14 @@
 # Renpy-Project<br>
-game/
-├─ audio/
-├─ gui/
-│  ├─ bar/
-│  ├─ button/
-│  ├─ overlay/
-│  ├─ phone/
-│  │  ├─ bar/
-│  │  ├─ button/
-│  │  ├─ overlay/
+game/<br>
+├─ audio/<br>
+├─ gui/<br>
+│  ├─ bar/<br>
+│  ├─ button/<br>
+│  ├─ overlay/<br>
+│  ├─ phone/<br>
+│  │  ├─ bar/<br>
+│  │  ├─ button/<br>
+│  │  ├─ overlay/<br>
 │  │  ├─ scrollbar/
 │  │  └─ slider/
 │  ├─ scrollbar/
